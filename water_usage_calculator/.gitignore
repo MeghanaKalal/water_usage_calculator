@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+data/records.json
+data/*.corrupt-*
+reports/*
+!reports/.gitkeep

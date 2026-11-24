@@ -1,0 +1,3 @@
+# Only needed for charts. Everything else uses the standard library.
+# The app still runs without it (chart menu just tells you to install it).
+matplotlib>=3.7

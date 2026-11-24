@@ -1,0 +1,9 @@
+date,household_size,shower_minutes,toilet_flushes,laundry_loads,dishwasher_loads,dish_wash_minutes,garden_minutes,car_washes,drinking_cooking_liters,notes
+2026-11-01,4,30,18,1,1,5,0,0,16,Good row
+2026-11-02,four,30,18,1,1,5,0,0,16,Household size is text
+2026-13-45,4,30,18,1,1,5,0,0,16,Impossible date
+2026-11-03,4,-5,18,1,1,5,0,0,16,Negative minutes
+2027-05-01,4,30,18,1,1,5,0,0,16,Future date
+2026-11-04,0,30,18,1,1,5,0,0,16,Zero people
+2026-11-05,4,30,18.5,1,1,5,0,0,16,Half a flush
+2026-11-06,3,25,15,1,0,10,0,0,12,Another good row
